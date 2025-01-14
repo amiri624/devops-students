@@ -1,2 +1,2 @@
 # devops-students
-Meisam Amiri
+~~Meisam Amiri~~
